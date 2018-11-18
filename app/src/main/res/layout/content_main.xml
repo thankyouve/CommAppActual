@@ -15,4 +15,5 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="0dp"
         tools:srcCompat="@tools:sample/backgrounds/scenic[16]" />
+
 </android.support.constraint.ConstraintLayout>

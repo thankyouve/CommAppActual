@@ -103,8 +103,6 @@ public class MainActivity extends AppCompatActivity
             // Handle the camera action
         } else if (id == R.id.nav_gallery) {
 
-        } else if (id == R.id.nav_slideshow) {
-
         } else if (id == R.id.nav_manage) {
 
         } else if (id == R.id.nav_share) {
@@ -119,7 +117,7 @@ public class MainActivity extends AppCompatActivity
     }
 
 
-
+    /*
     @Override
     protected void onResume() {
         super.onResume(savedInstanceState);
@@ -132,4 +130,5 @@ public class MainActivity extends AppCompatActivity
                         |View.SYSTEM_UI_FLAG_FULLSCREEN;
         decorView.setSystemUiVisibility(uiOptions);
     }
+    */
 }
